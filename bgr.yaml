@@ -1,0 +1,6 @@
+names:
+- cots
+nc: 1
+path: /kaggle/working
+train: /home/prince-homes/ML/cots/yolov5/train.txt
+val: /home/prince-homes/ML/cots/yolov5/val.txt
